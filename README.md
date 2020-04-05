@@ -1,3 +1,9 @@
+---
+noteId: "dc44d45076e811ea8c5a8b9005f0e484"
+tags: []
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
